@@ -99,32 +99,32 @@ const beautyTools = [
 
 const hairCare = [
     {
-        imageUrl: "https://example.com/haircare1.jpg",
+        imageUrl: "https://images.pexels.com/photos/3993449/pexels-photo-3993449.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         prdDes: "Description of hair care product 1.",
         rateOfObj: "$9.99"
     },
     {
-        imageUrl: "https://example.com/haircare2.jpg",
+        imageUrl: "https://images.pexels.com/photos/3993447/pexels-photo-3993447.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         prdDes: "Description of hair care product 2.",
         rateOfObj: "$14.99"
     },
     {
-        imageUrl: "https://example.com/haircare3.jpg",
+        imageUrl: "https://images.pexels.com/photos/3993449/pexels-photo-3993449.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         prdDes: "Description of hair care product 3.",
         rateOfObj: "$19.99"
     },
     {
-        imageUrl: "https://example.com/haircare4.jpg",
+        imageUrl: "https://images.pexels.com/photos/3993467/pexels-photo-3993467.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         prdDes: "Description of hair care product 4.",
         rateOfObj: "$24.99"
     },
     {
-        imageUrl: "https://example.com/haircare5.jpg",
+        imageUrl: "https://images.pexels.com/photos/3993447/pexels-photo-3993447.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         prdDes: "Description of hair care product 5.",
         rateOfObj: "$29.99"
     },
     {
-        imageUrl: "https://example.com/haircare6.jpg",
+        imageUrl: "https://images.pexels.com/photos/7440131/pexels-photo-7440131.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         prdDes: "Description of hair care product 6.",
         rateOfObj: "$34.99"
     }
@@ -133,32 +133,32 @@ const hairCare = [
 // Bath & Body
 const bathAndBody = [
     {
-        imageUrl: "https://example.com/bathbody1.jpg",
+        imageUrl: "https://images.pexels.com/photos/6032433/pexels-photo-6032433.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         prdDes: "Description of bath & body product 1.",
         rateOfObj: "$9.99"
     },
     {
-        imageUrl: "https://example.com/bathbody2.jpg",
+        imageUrl: "https://images.pexels.com/photos/896059/pexels-photo-896059.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         prdDes: "Description of bath & body product 2.",
         rateOfObj: "$14.99"
     },
     {
-        imageUrl: "https://example.com/bathbody3.jpg",
+        imageUrl: "https://images.pexels.com/photos/1431283/pexels-photo-1431283.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         prdDes: "Description of bath & body product 3.",
         rateOfObj: "$19.99"
     },
     {
-        imageUrl: "https://example.com/bathbody4.jpg",
+        imageUrl: "https://images.pexels.com/photos/6032433/pexels-photo-6032433.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         prdDes: "Description of bath & body product 4.",
         rateOfObj: "$24.99"
     },
     {
-        imageUrl: "https://example.com/bathbody5.jpg",
+        imageUrl: "https://images.pexels.com/photos/1431282/pexels-photo-1431282.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         prdDes: "Description of bath & body product 5.",
         rateOfObj: "$29.99"
     },
     {
-        imageUrl: "https://example.com/bathbody6.jpg",
+        imageUrl: "https://images.pexels.com/photos/7457629/pexels-photo-7457629.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1g",
         prdDes: "Description of bath & body product 6.",
         rateOfObj: "$34.99"
     }
@@ -167,32 +167,32 @@ const bathAndBody = [
 // Men's Care
 const mensCare = [
     {
-        imageUrl: "https://example.com/menscare1.jpg",
+        imageUrl: "https://images.pexels.com/photos/3993449/pexels-photo-3993449.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         prdDes: "Description of men's care product 1.",
         rateOfObj: "$9.99"
     },
     {
-        imageUrl: "https://example.com/menscare2.jpg",
+        imageUrl: "https://images.pexels.com/photos/1043474/pexels-photo-1043474.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         prdDes: "Description of men's care product 2.",
         rateOfObj: "$14.99"
     },
     {
-        imageUrl: "https://example.com/menscare3.jpg",
+        imageUrl: "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         prdDes: "Description of men's care product 3.",
         rateOfObj: "$19.99"
     },
     {
-        imageUrl: "https://example.com/menscare4.jpg",
+        imageUrl: "https://images.pexels.com/photos/1300402/pexels-photo-1300402.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         prdDes: "Description of men's care product 4.",
         rateOfObj: "$24.99"
     },
     {
-        imageUrl: "https://example.com/menscare5.jpg",
+        imageUrl: "https://images.pexels.com/photos/1172207/pexels-photo-1172207.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         prdDes: "Description of men's care product 5.",
         rateOfObj: "$29.99"
     },
     {
-        imageUrl: "https://example.com/menscare6.jpg",
+        imageUrl: "https://images.pexels.com/photos/1043474/pexels-photo-1043474.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         prdDes: "Description of men's care product 6.",
         rateOfObj: "$34.99"
     }
@@ -235,33 +235,33 @@ const personalCare = [
 // Fragrances
 const fragrances = [
     {
-        imageUrl: "https://example.com/fragrance1.jpg",
-        prdDes: "Description of fragrance product 1.",
+        imageUrl: "https://images.pexels.com/photos/6032433/pexels-photo-6032433.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        prdDes: "Description of bath & body product 1.",
         rateOfObj: "$9.99"
     },
     {
-        imageUrl: "https://example.com/fragrance2.jpg",
-        prdDes: "Description of fragrance product 2.",
+        imageUrl: "https://images.pexels.com/photos/896059/pexels-photo-896059.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        prdDes: "Description of bath & body product 2.",
         rateOfObj: "$14.99"
     },
     {
-        imageUrl: "https://example.com/fragrance3.jpg",
-        prdDes: "Description of fragrance product 3.",
+        imageUrl: "https://images.pexels.com/photos/1431283/pexels-photo-1431283.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        prdDes: "Description of bath & body product 3.",
         rateOfObj: "$19.99"
     },
     {
-        imageUrl: "https://example.com/fragrance4.jpg",
-        prdDes: "Description of fragrance product 4.",
+        imageUrl: "https://images.pexels.com/photos/6032433/pexels-photo-6032433.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        prdDes: "Description of bath & body product 4.",
         rateOfObj: "$24.99"
     },
     {
-        imageUrl: "https://example.com/fragrance5.jpg",
-        prdDes: "Description of fragrance product 5.",
+        imageUrl: "https://images.pexels.com/photos/1431282/pexels-photo-1431282.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        prdDes: "Description of bath & body product 5.",
         rateOfObj: "$29.99"
     },
     {
-        imageUrl: "https://example.com/fragrance6.jpg",
-        prdDes: "Description of fragrance product 6.",
+        imageUrl: "https://images.pexels.com/photos/7457629/pexels-photo-7457629.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1g",
+        prdDes: "Description of bath & body product 6.",
         rateOfObj: "$34.99"
     }
 ];
@@ -271,39 +271,134 @@ const fragrances = [
 // Medical Supplies
 const medicalSupplies = [
     {
-        imageUrl: "https://example.com/medicalsupplies1.jpg",
-        prdDes: "Description of medical supplies product 1.",
+        imageUrl: "https://images.pexels.com/photos/40568/medical-appointment-doctor-healthcare-40568.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        prdDes: "Description of Medical for benifet for human body from illness.",
         rateOfObj: "$9.99"
     },
     {
-        imageUrl: "https://example.com/medicalsupplies2.jpg",
+        imageUrl: "https://images.pexels.com/photos/2280547/pexels-photo-2280547.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         prdDes: "Description of medical supplies product 2.",
         rateOfObj: "$14.99"
     },
     {
-        imageUrl: "https://example.com/medicalsupplies3.jpg",
+        imageUrl: "https://images.pexels.com/photos/356040/pexels-photo-356040.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         prdDes: "Description of medical supplies product 3.",
         rateOfObj: "$19.99"
     },
     {
-        imageUrl: "https://example.com/medicalsupplies4.jpg",
+        imageUrl: "https://images.pexels.com/photos/2280549/pexels-photo-2280549.jpeg?auto=compress&cs=tinysrgb&w=600",
         prdDes: "Description of medical supplies product 4.",
         rateOfObj: "$24.99"
     },
     {
-        imageUrl: "https://example.com/medicalsupplies5.jpg",
+        imageUrl: "https://images.pexels.com/photos/2678059/pexels-photo-2678059.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         prdDes: "Description of medical supplies product 5.",
         rateOfObj: "$29.99"
     },
     {
-        imageUrl: "https://example.com/medicalsupplies6.jpg",
+        imageUrl: "https://images.pexels.com/photos/40568/medical-appointment-doctor-healthcare-40568.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         prdDes: "Description of medical supplies product 6.",
         rateOfObj: "$34.99"
     }
 ];
 
 
+//Mobile
+
+const MobileArray = [
+    {imageUrl : 'https://images.pexels.com/photos/1092644/pexels-photo-1092644.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1' ,
+     prdDes : 'That is product description about that product item which is show on image', 
+     rateOfObj : `Rs. 430`},
+    {imageUrl : 'https://images.pexels.com/photos/699122/pexels-photo-699122.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1' , prdDes : 'That is product description about that product item which is show on image', 
+    rateOfObj : `Rs. 430`},
+    {imageUrl : 'https://images.pexels.com/photos/404280/pexels-photo-404280.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1' ,
+    prdDes : 'That is product description about that product item which is show on image', 
+    rateOfObj : `Rs. 430`},
+    {imageUrl : 'https://images.pexels.com/photos/47261/pexels-photo-47261.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1' , prdDes : 'That is product description about that product item which is show on image', rateOfObj : `Rs. 430`},
+    {imageUrl : 'https://images.pexels.com/photos/1092644/pexels-photo-1092644.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1' , prdDes : 'That is product description about that product item which is show on image', rateOfObj : `Rs. 430`},
+    {imageUrl : 'https://images.pexels.com/photos/607812/pexels-photo-607812.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1' , prdDes : 'That is product description about that product item which is show on image', rateOfObj : `Rs. 430`},
+    {imageUrl : 'https://images.pexels.com/photos/699122/pexels-photo-699122.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1' , prdDes : 'That is product description about that product item which is show on image', 
+    rateOfObj : `Rs. 430`}
+] 
+
+//iphone 
+const MobileIphone = [
+    {imageUrl : 'https://images.pexels.com/photos/788946/pexels-photo-788946.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1' ,
+     prdDes : 'That is product description about that product item which is show on image', 
+     rateOfObj : `Rs. 430`},
+    {imageUrl : 'https://images.pexels.com/photos/699122/pexels-photo-699122.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1' , prdDes : 'That is product description about that product item which is show on image', 
+    rateOfObj : `Rs. 430`},
+    {imageUrl : 'https://images.pexels.com/photos/1294886/pexels-photo-1294886.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1' ,
+    prdDes : 'That is product description about that product item which is show on image', 
+    rateOfObj : `Rs. 430`},
+    {imageUrl : 'https://images.pexels.com/photos/47261/pexels-photo-47261.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1' , prdDes : 'That is product description about that product item which is show on image', rateOfObj : `Rs. 430`},
+    {imageUrl : 'https://images.pexels.com/photos/1092644/pexels-photo-1092644.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1' , prdDes : 'That is product description about that product item which is show on image', rateOfObj : `Rs. 430`},
+    {imageUrl : 'https://images.pexels.com/photos/1647976/pexels-photo-1647976.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1' , prdDes : 'That is product description about that product item which is show on image', rateOfObj : `Rs. 430`},
+    {imageUrl : 'https://images.pexels.com/photos/699122/pexels-photo-699122.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1' , prdDes : 'That is product description about that product item which is show on image', 
+    rateOfObj : `Rs. 430`}
+] 
+// ONe plus
+const MobileOnePlus = [
+    {imageUrl : 'https://images.pexels.com/photos/63690/pexels-photo-63690.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1' ,
+     prdDes : 'That is product description about that product item which is show on image', 
+     rateOfObj : `Rs. 430`},
+    {imageUrl : 'https://images.pexels.com/photos/699122/pexels-photo-699122.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1' , prdDes : 'That is product description about that product item which is show on image', 
+    rateOfObj : `Rs. 430`},
+    {imageUrl : 'https://images.pexels.com/photos/63690/pexels-photo-63690.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1' ,
+    prdDes : 'That is product description about that product item which is show on image', 
+    rateOfObj : `Rs. 430`},
+    {imageUrl : 'https://images.pexels.com/photos/47261/pexels-photo-47261.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1' , prdDes : 'That is product description about that product item which is show on image', rateOfObj : `Rs. 430`},
+    {imageUrl : 'https://images.pexels.com/photos/1092644/pexels-photo-1092644.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1' , prdDes : 'That is product description about that product item which is show on image', rateOfObj : `Rs. 430`},
+    {imageUrl : 'https://images.pexels.com/photos/1647976/pexels-photo-1647976.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1' , prdDes : 'That is product description about that product item which is show on image', rateOfObj : `Rs. 430`},
+    {imageUrl : `https://images.pexels.com/photos/9403824/pexels-photo-9403824.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1` , prdDes : 'That is product description about that product item which is show on image', 
+    rateOfObj : `Rs. 430`}
+] 
+
+// Huawei P40
+
+const MobileHuawei = [
+    {imageUrl : 'https://images.pexels.com/photos/1036619/pexels-photo-1036619.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1' ,
+     prdDes : 'That is product description about that product item which is show on image', 
+     rateOfObj : `Rs. 430`},
+    {imageUrl : 'https://images.pexels.com/photos/699122/pexels-photo-699122.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1' , prdDes : 'That is product description about that product item which is show on image', 
+    rateOfObj : `Rs. 430`},
+    {imageUrl : 'https://images.pexels.com/photos/1036619/pexels-photo-1036619.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1' ,
+    prdDes : 'That is product description about that product item which is show on image', 
+    rateOfObj : `Rs. 430`},
+    {imageUrl : 'https://images.pexels.com/photos/47261/pexels-photo-47261.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1' , prdDes : 'That is product description about that product item which is show on image', rateOfObj : `Rs. 430`},
+    {imageUrl : 'https://images.pexels.com/photos/1092644/pexels-photo-1092644.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1' , prdDes : 'That is product description about that product item which is show on image', rateOfObj : `Rs. 430`},
+    {imageUrl : 'https://images.pexels.com/photos/1036619/pexels-photo-1036619.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1' , prdDes : 'That is product description about that product item which is show on image', rateOfObj : `Rs. 430`},
+    {imageUrl : `https://images.pexels.com/photos/9403824/pexels-photo-9403824.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1` , prdDes : 'That is product description about that product item which is show on image', 
+    rateOfObj : `Rs. 430`}
+] 
 
 
 
-module.exports = { makeupProducts , skinCareProducts , beautyTools , hairCare, bathAndBody, mensCare ,personalCare, fragrances, medicalSupplies}
+// Random array
+const randomArr = [
+    {imageUrl : 'https://images.pexels.com/photos/4406931/pexels-photo-4406931.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1' ,
+     prdDes : 'That is product description about that product item which is show on image', 
+     rateOfObj : `Rs. 430`},
+    {imageUrl : 'https://images.pexels.com/photos/14434438/pexels-photo-14434438.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1' , prdDes : 'That is product description about that product item which is show on image', 
+    rateOfObj : `Rs. 430`},
+    {imageUrl : 'https://images.pexels.com/photos/751136/pexels-photo-751136.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1' ,
+    prdDes : 'That is product description about that product item which is show on image', 
+    rateOfObj : `Rs. 430`},
+    {imageUrl : 'https://images.pexels.com/photos/47261/pexels-photo-47261.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1' , prdDes : 'That is product description about that product item which is show on image', rateOfObj : `Rs. 430`},
+    {imageUrl : 'https://images.pexels.com/photos/1092644/pexels-photo-1092644.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1' , prdDes : 'That is product description about that product item which is show on image', rateOfObj : `Rs. 430`},
+    {imageUrl : 'https://images.pexels.com/photos/17807423/pexels-photo-17807423/free-photo-of-a-person-holding-a-phone-taking-a-photo.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1' , prdDes : 'That is product description about that product item which is show on image', rateOfObj : `Rs. 430`},
+    {imageUrl : `https://images.pexels.com/photos/9403824/pexels-photo-9403824.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1` , prdDes : 'That is product description about that product item which is show on image', 
+    rateOfObj : `Rs. 430`},
+    {imageUrl : 'https://images.pexels.com/photos/14434438/pexels-photo-14434438.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1' , prdDes : 'That is product description about that product item which is show on image', 
+    rateOfObj : `Rs. 430`},
+    {imageUrl : 'https://images.pexels.com/photos/751136/pexels-photo-751136.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1' ,
+    prdDes : 'That is product description about that product item which is show on image', 
+    rateOfObj : `Rs. 430`},
+    {imageUrl : 'https://images.pexels.com/photos/47261/pexels-photo-47261.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1' , prdDes : 'That is product description about that product item which is show on image', rateOfObj : `Rs. 430`},
+] 
+
+
+
+
+
+module.exports = { makeupProducts , skinCareProducts , beautyTools , hairCare, bathAndBody, mensCare ,personalCare, fragrances, medicalSupplies , MobileArray ,MobileIphone, MobileOnePlus,MobileHuawei, randomArr }

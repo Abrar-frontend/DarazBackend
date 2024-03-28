@@ -10,14 +10,19 @@ const {
     mensCare,
     personalCare,
     beautyTools, 
-    medicalSupplies
+    medicalSupplies,
+    MobileArray,
+    MobileHuawei,
+    MobileIphone,
+    MobileOnePlus,
+    randomArr
 } = require('./Products.js')
 
 app.use(cors())
 app.use(express.json())
 
 app.get('/', (req, res) => {
-   
+   console.log(req.query.id)
     if(req.query.id == 'Makeup'){
     res.send(makeupProducts)
     }else if(req.query.id == 'Skin Care'){
@@ -36,8 +41,16 @@ app.get('/', (req, res) => {
         res.send(medicalSupplies)
     }else if(req.query.id == 'Fragrances'){
         res.send(medicalSupplies)
+    }else if(req.query.id == 'Samsung Galaxy S21'){
+        res.send(MobileArray)
+    }else if(req.query.id == 'iPhone 13'){
+        res.send(MobileIphone)
+    }else if(req.query.id == 'OnePlus 9'){
+        res.send(MobileOnePlus)
+    }else if(req.query.id == 'Huawei P40'){
+        res.send(MobileHuawei)
     }else{
-        res.json('else condition is working now')
+        res.send(randomArr)
     }
 })
 
