@@ -2,6 +2,10 @@ const express = require('express')
 const app = express()
 const cors = require('cors')
 
+require('dotenv').config();
+
+const port = process.env.PORT || 3000;
+
 const {
     makeupProducts,
     skinCareProducts,
@@ -57,4 +61,4 @@ app.get('/', (req, res) => {
 
 
 
-app.listen(3000, () => console.log('Server ready'))
+app.listen(port, () => console.log('Server ready',port))
